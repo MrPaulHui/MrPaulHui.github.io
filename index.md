@@ -1,2 +1,2 @@
 ## Welcome to Paul Hui's Page
-To be an interesting man, do something interesting.
+至人无己，神人无功，圣人无名。
