@@ -1,0 +1,9 @@
+I"�<p>Windows环境下</p>
+
+<ol>
+  <li>安装ruby</li>
+  <li>gem install jekyll 安装jekyll</li>
+  <li>cd 博客目录，执行bundle update和bundle add webrick</li>
+  <li>jekyll server 开启本地运行</li>
+</ol>
+:ET
