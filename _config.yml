@@ -8,7 +8,7 @@ avatarTitle: Paul Hui
 avatarDesc: java / python
 
 # 博客是否自动生成目录，false为不生成
-enableToc: false
+enableToc: true
 
 
 
@@ -32,8 +32,8 @@ textColor: #FF0000
 cover_color: clear
 
 # The blog button should not be removed.
-#blog_button:
-#    title: 博客主页
+blog_button:
+    title: 博客主页
 
 # Navigation buttons in the front page.s
 nav:
