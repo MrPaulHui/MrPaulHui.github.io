@@ -15,4 +15,4 @@ title: About Me
 
 <h2> My Travel </h2>  
 
-
+![travelled place](/travel_map/travel_map.jpg)
