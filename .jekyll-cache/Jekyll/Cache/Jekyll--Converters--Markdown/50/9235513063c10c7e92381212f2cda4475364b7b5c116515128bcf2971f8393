@@ -1,0 +1,13 @@
+I"<ol>
+  <li>
+    <p>解决Failed to connect to github.com port 443问题</p>
+
+    <p>git config –global –unset http.proxy</p>
+
+    <p>git config –global –unset https.proxy</p>
+
+    <p>参考：https://blog.csdn.net/Hodors/article/details/103226958</p>
+  </li>
+</ol>
+
+:ET
