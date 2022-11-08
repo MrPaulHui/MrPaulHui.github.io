@@ -11,6 +11,6 @@ tag = input('输入标签\n')
 if tag not in tags:
     with open('tags.txt', 'a', encoding='UTF-8') as f:
         f.write('\n'+tag)
-text = f'---\nlayout:post\ntitle={title}\ndate:{date}\ntags:{tag}\n---'
+text = f'---\nlayout:post\ntitle:{title}\ndate:{date}\ntags:{tag}\n---'
 with open(f'_posts/{date}-{title}.md', 'w') as f:
     f.write(text)
